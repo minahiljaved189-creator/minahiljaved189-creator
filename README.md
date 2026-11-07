@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="Minahil Javed - AI Engineer and Full Stack Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=Minahil%20Javed&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=56&descSize=17" />
+<img width="100%" alt="Minahil Javed - AI Engineer and Full Stack Developer" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:8B5CF6&height=220&section=header&text=Minahil%20Javed&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=56&descSize=17" />
 
 <img alt="AI applications, full stack development and real-time systems" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=00D9FF&center=true&vCenter=true&width=760&lines=Building+AI-Powered+Web+Applications;React+%7C+Vue+%7C+TypeScript+%7C+Python;MERN+Stack+%7C+LLM+Integration+%7C+Real-Time+Systems;Open+to+AI+and+Software+Development+Roles" />
 
@@ -231,6 +231,6 @@ For developer opportunities and project discussions, connect with me.
 [<img alt="Connect on LinkedIn" src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/minahil-javed-41878840b)
 [<img alt="Get in Touch" src="https://img.shields.io/badge/Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:minahiljaved189@gmail.com)
 
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=110&section=footer" />
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:8B5CF6&height=110&section=footer" />
 
 </div>
