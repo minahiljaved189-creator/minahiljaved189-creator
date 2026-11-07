@@ -54,6 +54,7 @@ class MinahilJaved:
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-B8860B?style=for-the-badge&logo=javascript&logoColor=white" />
 <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
@@ -124,6 +125,42 @@ class MinahilJaved:
 
 ---
 
+### 🧠 Additional AI & Machine Learning Skills
+
+<p align="center">
+<img alt="DeepFace" src="https://img.shields.io/badge/DeepFace-5C3EE8?style=for-the-badge" />
+<img alt="YOLOv8" src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge" />
+<img alt="TF-IDF" src="https://img.shields.io/badge/TF--IDF-007ACC?style=for-the-badge" />
+<img alt="Logistic Regression" src="https://img.shields.io/badge/Logistic%20Regression-F7931E?style=for-the-badge" />
+<img alt="Voice Activity Detection" src="https://img.shields.io/badge/Voice%20Activity%20Detection-4285F4?style=for-the-badge" />
+</p>
+
+### 🌐 IT Engineering & Networking
+
+<p align="center">
+<img alt="Networking Fundamentals" src="https://img.shields.io/badge/Networking%20Fundamentals-0078D4?style=for-the-badge" />
+<img alt="Windows Server" src="https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge" />
+<img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+<img alt="Network Configuration" src="https://img.shields.io/badge/Network%20Configuration-009688?style=for-the-badge" />
+<img alt="IT Troubleshooting" src="https://img.shields.io/badge/IT%20Troubleshooting-455A64?style=for-the-badge" />
+<img alt="Client-Server Architecture" src="https://img.shields.io/badge/Client--Server%20Architecture-6C5CE7?style=for-the-badge" />
+</p>
+
+### 🛠️ Design & Development Tools
+
+<p align="center">
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge" />
+<img alt="MongoDB Atlas" src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img alt="UI Design" src="https://img.shields.io/badge/UI%20Design-A259FF?style=for-the-badge" />
+<img alt="Wireframing" src="https://img.shields.io/badge/Wireframing-6C5CE7?style=for-the-badge" />
+<img alt="Responsive Web Design" src="https://img.shields.io/badge/Responsive%20Web%20Design-1572B6?style=for-the-badge" />
+<img alt="OOP" src="https://img.shields.io/badge/OOP-00599C?style=for-the-badge" />
+</p>
+
+---
+
 ## 🏆 Featured Projects
 
 ### 🤖 [AI Finance Manager](https://github.com/minahiljaved189-creator/AI-Finance-Manager)
@@ -179,6 +216,65 @@ Home decor e-commerce project featuring product browsing, authentication, cart, 
 ### 🛂 [Passport Management System](https://github.com/minahiljaved189-creator/Passport-Management-System)
 
 **C++** console application demonstrating inheritance, record management and file handling.
+
+---
+
+## 💼 Professional Experience
+
+### Software Developer Intern · Rasant Solutions
+
+- Software development internship with experience in the Edura frontend stack: Vue 3, Vue Router, JavaScript, HTML, CSS and Vite.
+- Skills include reusable UI components, page layouts, client-side routing and frontend organization.
+
+### IT Engineering & Networking Experience · NESL IT
+
+**6 months · 2026**
+
+- Hands-on experience with networking fundamentals and client-server environments.
+- Windows Server and VirtualBox for server/client setups and virtualization.
+- Network configuration, IT troubleshooting and technical problem solving.
+
+### Full Stack Developer / Software Development Intern · United Sol
+
+**June 2025 – August 2025**
+
+- Developed and maintained responsive web interfaces and application features.
+- Collaborated with the development team on requirements, implementation and refinement.
+- Debugged existing functionality and worked on cross-browser compatibility.
+- Participated in testing and iterative software development.
+
+### Computer Science & Mathematics Tutor · Academy
+
+**Part-time**
+
+- Taught Mathematics, Computer Science and other science subjects at Matric and Intermediate levels.
+- Explained technical concepts, guided problem-solving practice and supported students with code debugging.
+
+---
+
+## 🎓 Education
+
+### BS Computer Science
+**International Islamic University, Islamabad · 2022–2026**
+
+### ICS · Grade A
+**Islamabad Model College for Girls, I-10/4 · 2020–2022**
+
+### Matric · Grade A
+
+---
+
+## 🧪 Additional Project Experience
+
+- **Restaurant Management System:** Java, SQL and object-oriented programming.
+- **Passport Registration System:** Java and object-oriented programming.
+- **String Matching Using Finite Automata:** C++.
+- **Firefly Algorithm Optimization:** Python.
+- **Portfolio & Web Design:** HTML, CSS, JavaScript, Figma, wireframes and UI design.
+
+## 🗣️ Languages
+
+**English:** Fluent · **Urdu:** Native · **Punjabi:** Native
 
 ---
 
