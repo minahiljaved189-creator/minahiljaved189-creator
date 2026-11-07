@@ -10,7 +10,7 @@
 [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/minahiljaved189-creator)
 [<img alt="Contact" src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:minahiljaved189@gmail.com)
 
-[**Explore my portfolio ↗**](https://minahiljaved189-creator.github.io/)
+[**Explore my portfolio ↗**](https://minahiljaved189-creator.github.io/) · [**View CV ↗**](https://minahiljaved189-creator.github.io/?view=cv)
 
 **Open to AI engineering, frontend and full stack development opportunities**
 
