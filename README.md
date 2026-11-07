@@ -274,9 +274,10 @@ English — Fluent · Urdu — Native · Punjabi — Native
 
 <div align="center">
 
-<img alt="Minahil's GitHub contribution activity" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=minahiljaved189-creator&theme=tokyo-night&hide_border=true&radius=12" />
+[![Repositories](https://img.shields.io/badge/Explore_Repositories-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minahiljaved189-creator?tab=repositories)
+[![Contributions](https://img.shields.io/badge/Contribution_History-DB2777?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minahiljaved189-creator?tab=overview)
 
-[View repositories](https://github.com/minahiljaved189-creator?tab=repositories) · [View contribution history](https://github.com/minahiljaved189-creator?tab=overview)
+
 
 </div>
 
