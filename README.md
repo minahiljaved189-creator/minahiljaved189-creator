@@ -18,9 +18,9 @@
 
 ## 🧠 About Me
 
-I'm **Minahil Javed, an AI Engineer and Full Stack Developer** working with Python, JavaScript, TypeScript and the MERN stack. My projects bring together AI integration, web interfaces, backend APIs and real-time interactions.
+I'm **Minahil Javed, an AI Engineer and Full Stack Developer** focused on building AI-powered web applications with Python, React, Vue.js, and Node.js. My work spans responsive interfaces, REST APIs, and real-time features, supported by practical experience in software development and testing.
 
-My practical experience also includes software development internships, IT engineering and networking, software testing, C# package work, and visual content creation.
+I bring together AI integration and full stack development to create applications with clear interfaces and well-structured functionality.
 
 ## 💻 Technical Skills
 
