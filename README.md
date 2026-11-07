@@ -52,9 +52,39 @@ I bring together AI integration and full stack development to create application
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-**Frontend:** Vue Router, Vite, responsive layouts, Flexbox, CSS Grid, reusable components and UI design.  
-**Backend:** REST APIs, Socket.IO, authentication, JWT and package integration.  
-**Application libraries:** Zustand, React Konva, Axios, Recharts, Mongoose and Zod.
+### Frontend Skills
+
+<p>
+<img alt="Vue Router" src="https://img.shields.io/badge/Vue%20Router-A83E82?style=for-the-badge" />
+<img alt="Vite" src="https://img.shields.io/badge/Vite-A83E82?style=for-the-badge" />
+<img alt="Responsive Design" src="https://img.shields.io/badge/Responsive%20Design-A83E82?style=for-the-badge" />
+<img alt="Flexbox" src="https://img.shields.io/badge/Flexbox-A83E82?style=for-the-badge" />
+<img alt="CSS Grid" src="https://img.shields.io/badge/CSS%20Grid-A83E82?style=for-the-badge" />
+<img alt="Reusable Components" src="https://img.shields.io/badge/Reusable%20Components-A83E82?style=for-the-badge" />
+<img alt="UI Design" src="https://img.shields.io/badge/UI%20Design-A83E82?style=for-the-badge" />
+</p>
+
+### Backend & APIs
+
+<p>
+<img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-7044A4?style=for-the-badge" />
+<img alt="Socket.IO" src="https://img.shields.io/badge/Socket.IO-7044A4?style=for-the-badge" />
+<img alt="Authentication" src="https://img.shields.io/badge/Authentication-7044A4?style=for-the-badge" />
+<img alt="JWT" src="https://img.shields.io/badge/JWT-7044A4?style=for-the-badge" />
+<img alt="Package Integration" src="https://img.shields.io/badge/Package%20Integration-7044A4?style=for-the-badge" />
+</p>
+
+### Application Libraries
+
+<p>
+<img alt="Zustand" src="https://img.shields.io/badge/Zustand-4264A0?style=for-the-badge" />
+<img alt="React Konva" src="https://img.shields.io/badge/React%20Konva-4264A0?style=for-the-badge" />
+<img alt="Axios" src="https://img.shields.io/badge/Axios-4264A0?style=for-the-badge" />
+<img alt="Recharts" src="https://img.shields.io/badge/Recharts-4264A0?style=for-the-badge" />
+<img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-4264A0?style=for-the-badge" />
+<img alt="Zod" src="https://img.shields.io/badge/Zod-4264A0?style=for-the-badge" />
+</p>
+
 
 ### AI, Computer Vision & Machine Learning
 
@@ -68,9 +98,31 @@ I bring together AI integration and full stack development to create application
 <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-**AI development:** LLM/API integration, prompt engineering and structured outputs.  
-**Computer vision and audio:** DeepFace, voice activity detection, PyAudio and WebRTC VAD.  
-**Machine learning:** TF-IDF and logistic regression.
+### AI Development
+
+<p>
+<img alt="LLM Integration" src="https://img.shields.io/badge/LLM%20Integration-7044A4?style=for-the-badge" />
+<img alt="AI APIs" src="https://img.shields.io/badge/AI%20APIs-7044A4?style=for-the-badge" />
+<img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt%20Engineering-7044A4?style=for-the-badge" />
+<img alt="Structured Outputs" src="https://img.shields.io/badge/Structured%20Outputs-7044A4?style=for-the-badge" />
+</p>
+
+### Computer Vision & Audio
+
+<p>
+<img alt="DeepFace" src="https://img.shields.io/badge/DeepFace-A83E82?style=for-the-badge" />
+<img alt="Voice Activity Detection" src="https://img.shields.io/badge/Voice%20Activity%20Detection-A83E82?style=for-the-badge" />
+<img alt="PyAudio" src="https://img.shields.io/badge/PyAudio-A83E82?style=for-the-badge" />
+<img alt="WebRTC VAD" src="https://img.shields.io/badge/WebRTC%20VAD-A83E82?style=for-the-badge" />
+</p>
+
+### Machine Learning
+
+<p>
+<img alt="TF-IDF" src="https://img.shields.io/badge/TF--IDF-4264A0?style=for-the-badge" />
+<img alt="Logistic Regression" src="https://img.shields.io/badge/Logistic%20Regression-4264A0?style=for-the-badge" />
+</p>
+
 
 ### Databases & Development Tools
 
@@ -83,7 +135,15 @@ I bring together AI integration and full stack development to create application
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-**Data and tools:** MongoDB Atlas, relational databases, VS Code and object-oriented programming.
+### Data & Development
+
+<p>
+<img alt="MongoDB Atlas" src="https://img.shields.io/badge/MongoDB%20Atlas-7044A4?style=for-the-badge" />
+<img alt="Relational Databases" src="https://img.shields.io/badge/Relational%20Databases-7044A4?style=for-the-badge" />
+<img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-7044A4?style=for-the-badge" />
+<img alt="OOP" src="https://img.shields.io/badge/OOP-7044A4?style=for-the-badge" />
+</p>
+
 
 ### Software Testing & IT Infrastructure
 
