@@ -55,34 +55,34 @@ I bring together AI integration and full stack development to create application
 ### Frontend Skills
 
 <p>
-<img alt="Vue Router" src="https://img.shields.io/badge/Vue%20Router-A83E82?style=for-the-badge" />
-<img alt="Vite" src="https://img.shields.io/badge/Vite-A83E82?style=for-the-badge" />
-<img alt="Responsive Design" src="https://img.shields.io/badge/Responsive%20Design-A83E82?style=for-the-badge" />
-<img alt="Flexbox" src="https://img.shields.io/badge/Flexbox-A83E82?style=for-the-badge" />
-<img alt="CSS Grid" src="https://img.shields.io/badge/CSS%20Grid-A83E82?style=for-the-badge" />
-<img alt="Reusable Components" src="https://img.shields.io/badge/Reusable%20Components-A83E82?style=for-the-badge" />
-<img alt="UI Design" src="https://img.shields.io/badge/UI%20Design-A83E82?style=for-the-badge" />
+<img alt="Vue Router" src="https://img.shields.io/badge/Vue%20Router-42B883?style=for-the-badge" />
+<img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge" />
+<img alt="Responsive Design" src="https://img.shields.io/badge/Responsive%20Design-D9468F?style=for-the-badge" />
+<img alt="Flexbox" src="https://img.shields.io/badge/Flexbox-EA580C?style=for-the-badge" />
+<img alt="CSS Grid" src="https://img.shields.io/badge/CSS%20Grid-2563EB?style=for-the-badge" />
+<img alt="Reusable Components" src="https://img.shields.io/badge/Reusable%20Components-0F8B8D?style=for-the-badge" />
+<img alt="UI Design" src="https://img.shields.io/badge/UI%20Design-A855F7?style=for-the-badge" />
 </p>
 
 ### Backend & APIs
 
 <p>
-<img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-7044A4?style=for-the-badge" />
-<img alt="Socket.IO" src="https://img.shields.io/badge/Socket.IO-7044A4?style=for-the-badge" />
-<img alt="Authentication" src="https://img.shields.io/badge/Authentication-7044A4?style=for-the-badge" />
-<img alt="JWT" src="https://img.shields.io/badge/JWT-7044A4?style=for-the-badge" />
-<img alt="Package Integration" src="https://img.shields.io/badge/Package%20Integration-7044A4?style=for-the-badge" />
+<img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-0D9488?style=for-the-badge" />
+<img alt="Socket.IO" src="https://img.shields.io/badge/Socket.IO-323232?style=for-the-badge" />
+<img alt="Authentication" src="https://img.shields.io/badge/Authentication-C2410C?style=for-the-badge" />
+<img alt="JWT" src="https://img.shields.io/badge/JWT-BE185D?style=for-the-badge" />
+<img alt="Package Integration" src="https://img.shields.io/badge/Package%20Integration-7C3AED?style=for-the-badge" />
 </p>
 
 ### Application Libraries
 
 <p>
-<img alt="Zustand" src="https://img.shields.io/badge/Zustand-4264A0?style=for-the-badge" />
-<img alt="React Konva" src="https://img.shields.io/badge/React%20Konva-4264A0?style=for-the-badge" />
-<img alt="Axios" src="https://img.shields.io/badge/Axios-4264A0?style=for-the-badge" />
-<img alt="Recharts" src="https://img.shields.io/badge/Recharts-4264A0?style=for-the-badge" />
-<img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-4264A0?style=for-the-badge" />
-<img alt="Zod" src="https://img.shields.io/badge/Zod-4264A0?style=for-the-badge" />
+<img alt="Zustand" src="https://img.shields.io/badge/Zustand-785548?style=for-the-badge" />
+<img alt="React Konva" src="https://img.shields.io/badge/React%20Konva-0891B2?style=for-the-badge" />
+<img alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge" />
+<img alt="Recharts" src="https://img.shields.io/badge/Recharts-15803D?style=for-the-badge" />
+<img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-A12622?style=for-the-badge" />
+<img alt="Zod" src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge" />
 </p>
 
 
@@ -101,26 +101,26 @@ I bring together AI integration and full stack development to create application
 ### AI Development
 
 <p>
-<img alt="LLM Integration" src="https://img.shields.io/badge/LLM%20Integration-7044A4?style=for-the-badge" />
-<img alt="AI APIs" src="https://img.shields.io/badge/AI%20APIs-7044A4?style=for-the-badge" />
-<img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt%20Engineering-7044A4?style=for-the-badge" />
-<img alt="Structured Outputs" src="https://img.shields.io/badge/Structured%20Outputs-7044A4?style=for-the-badge" />
+<img alt="LLM Integration" src="https://img.shields.io/badge/LLM%20Integration-7C3AED?style=for-the-badge" />
+<img alt="AI APIs" src="https://img.shields.io/badge/AI%20APIs-0D9488?style=for-the-badge" />
+<img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt%20Engineering-D9468F?style=for-the-badge" />
+<img alt="Structured Outputs" src="https://img.shields.io/badge/Structured%20Outputs-2563EB?style=for-the-badge" />
 </p>
 
 ### Computer Vision & Audio
 
 <p>
-<img alt="DeepFace" src="https://img.shields.io/badge/DeepFace-A83E82?style=for-the-badge" />
-<img alt="Voice Activity Detection" src="https://img.shields.io/badge/Voice%20Activity%20Detection-A83E82?style=for-the-badge" />
-<img alt="PyAudio" src="https://img.shields.io/badge/PyAudio-A83E82?style=for-the-badge" />
-<img alt="WebRTC VAD" src="https://img.shields.io/badge/WebRTC%20VAD-A83E82?style=for-the-badge" />
+<img alt="DeepFace" src="https://img.shields.io/badge/DeepFace-7E57C2?style=for-the-badge" />
+<img alt="Voice Activity Detection" src="https://img.shields.io/badge/Voice%20Activity%20Detection-0F766E?style=for-the-badge" />
+<img alt="PyAudio" src="https://img.shields.io/badge/PyAudio-D97706?style=for-the-badge" />
+<img alt="WebRTC VAD" src="https://img.shields.io/badge/WebRTC%20VAD-2563EB?style=for-the-badge" />
 </p>
 
 ### Machine Learning
 
 <p>
-<img alt="TF-IDF" src="https://img.shields.io/badge/TF--IDF-4264A0?style=for-the-badge" />
-<img alt="Logistic Regression" src="https://img.shields.io/badge/Logistic%20Regression-4264A0?style=for-the-badge" />
+<img alt="TF-IDF" src="https://img.shields.io/badge/TF--IDF-0284C7?style=for-the-badge" />
+<img alt="Logistic Regression" src="https://img.shields.io/badge/Logistic%20Regression-C2410C?style=for-the-badge" />
 </p>
 
 
@@ -138,10 +138,10 @@ I bring together AI integration and full stack development to create application
 ### Data & Development
 
 <p>
-<img alt="MongoDB Atlas" src="https://img.shields.io/badge/MongoDB%20Atlas-7044A4?style=for-the-badge" />
-<img alt="Relational Databases" src="https://img.shields.io/badge/Relational%20Databases-7044A4?style=for-the-badge" />
-<img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-7044A4?style=for-the-badge" />
-<img alt="OOP" src="https://img.shields.io/badge/OOP-7044A4?style=for-the-badge" />
+<img alt="MongoDB Atlas" src="https://img.shields.io/badge/MongoDB%20Atlas-278A39?style=for-the-badge" />
+<img alt="Relational Databases" src="https://img.shields.io/badge/Relational%20Databases-4767B1?style=for-the-badge" />
+<img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge" />
+<img alt="OOP" src="https://img.shields.io/badge/OOP-A855F7?style=for-the-badge" />
 </p>
 
 
