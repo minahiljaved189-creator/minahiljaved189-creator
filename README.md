@@ -41,7 +41,7 @@ class MinahilJaved:
 | :---: | :---: | :---: |
 | LLM integration, structured prompts and AI insights | React, Node.js, Express and MongoDB | Socket.IO and synchronized canvas interactions |
 | **🎨 Frontend Interfaces** | **🔌 Backend and APIs** | **🎓 Education Technology** |
-| Vue 3, TypeScript, reusable components and CSS | Flask, REST APIs and data workflows | Exam management, proctoring and Edura frontend |
+| Vue 3, TypeScript, reusable components and CSS | Flask, REST APIs and data workflows | Exam management, proctoring and education interfaces |
 
 ---
 
@@ -55,6 +55,7 @@ class MinahilJaved:
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-B8860B?style=for-the-badge&logo=javascript&logoColor=white" />
 <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img alt="C#" src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge" />
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
@@ -91,7 +92,7 @@ class MinahilJaved:
 <img alt="Zod" src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
 </p>
 
-### 🎨 Frontend & Edura Skills
+### 🎨 Frontend Development
 
 <p align="center">
 <img alt="React" src="https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white" />
@@ -161,6 +162,25 @@ class MinahilJaved:
 
 ---
 
+### 🧪 Software Testing & C#
+
+<p align="center">
+<img alt="Software Testing" src="https://img.shields.io/badge/Software%20Testing-007ACC?style=for-the-badge" />
+<img alt="C#" src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge" />
+<img alt="Package Integration" src="https://img.shields.io/badge/Package%20Integration-6C5CE7?style=for-the-badge" />
+</p>
+
+### 🎬 Graphic Design & Animation
+
+<p align="center">
+<img alt="Graphic Design" src="https://img.shields.io/badge/Graphic%20Design-E91E63?style=for-the-badge" />
+<img alt="Animated Videos" src="https://img.shields.io/badge/Animated%20Videos-FF5722?style=for-the-badge" />
+<img alt="Cartoon Animation" src="https://img.shields.io/badge/Cartoon%20Animation-9C27B0?style=for-the-badge" />
+<img alt="Visual Content Creation" src="https://img.shields.io/badge/Visual%20Content%20Creation-009688?style=for-the-badge" />
+</p>
+
+---
+
 ## 🏆 Featured Projects
 
 ### 🤖 [AI Finance Manager](https://github.com/minahiljaved189-creator/AI-Finance-Manager)
@@ -223,12 +243,14 @@ Home decor e-commerce project featuring product browsing, authentication, cart, 
 
 ### Software Developer Intern · Rasant Solutions
 
-- Software development internship with experience in the Edura frontend stack: Vue 3, Vue Router, JavaScript, HTML, CSS and Vite.
+**11 September – 11 December**
+
+- Software development internship using Vue 3, Vue Router, JavaScript, HTML, CSS and Vite.
 - Skills include reusable UI components, page layouts, client-side routing and frontend organization.
 
 ### IT Engineering & Networking Experience · NESL IT
 
-**6 months · 2026**
+**1 April – 10 September**
 
 - Hands-on experience with networking fundamentals and client-server environments.
 - Windows Server and VirtualBox for server/client setups and virtualization.
@@ -263,6 +285,13 @@ Home decor e-commerce project featuring product browsing, authentication, cart, 
 ### Matric · Grade A
 
 ---
+
+## 🎨 Additional Practical Experience
+
+- **Software testing:** Experience testing software applications.
+- **C# and packages:** Practical experience working with C# and software packages.
+- **Graphic design:** Creating graphics and visual content.
+- **Animation:** Creating animated videos, including cartoon-style content.
 
 ## 🧪 Additional Project Experience
 
