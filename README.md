@@ -47,12 +47,13 @@ class MinahilJaved:
 
 ## 💻 Tech Stack & Skills
 
-### 🐍 Programming Languages
+### 🐍 Programming & Query Languages
 
 <p align="center">
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-B8860B?style=for-the-badge&logo=javascript&logoColor=white" />
+<img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
@@ -64,6 +65,29 @@ class MinahilJaved:
 <img alt="Gemini" src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt%20Engineering-7B61FF?style=for-the-badge" />
 <img alt="Structured AI Outputs" src="https://img.shields.io/badge/Structured%20AI%20Outputs-00A98F?style=for-the-badge" />
+</p>
+
+### 👁️ Computer Vision, Data & Audio
+
+<p align="center">
+<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img alt="MediaPipe" src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge" />
+<img alt="Ultralytics YOLO" src="https://img.shields.io/badge/Ultralytics%20YOLO-111F68?style=for-the-badge" />
+<img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img alt="PyAudio" src="https://img.shields.io/badge/PyAudio-3776AB?style=for-the-badge" />
+<img alt="WebRTC VAD" src="https://img.shields.io/badge/WebRTC%20VAD-4285F4?style=for-the-badge" />
+</p>
+
+### 🧩 Application Libraries
+
+<p align="center">
+<img alt="Zustand" src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge" />
+<img alt="Konva" src="https://img.shields.io/badge/Konva-0D83CD?style=for-the-badge" />
+<img alt="Recharts" src="https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge" />
+<img alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+<img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+<img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img alt="Zod" src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
 </p>
 
 ### 🎨 Frontend & Edura Skills
@@ -126,7 +150,7 @@ A collaborative canvas that transforms natural-language requests into synchroniz
 
 ### 👁️ [ApexAI — Exam & Proctoring Platform](https://github.com/minahiljaved189-creator/ApexAI-FYP)
 
-> **Python · Flask · Socket.IO · SQLite · JavaScript**
+> **Python · Flask · Socket.IO · SQLite · SQL · JavaScript · OpenCV · MediaPipe · Ultralytics · NumPy**
 
 An exam platform combining quiz management and AI-assisted proctoring.
 
