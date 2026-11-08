@@ -11,7 +11,7 @@
 [<img alt="Contact" src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:minahiljaved189@gmail.com)
 
 [<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-A83E82?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://minahiljaved189-creator.github.io/)
-[<img alt="View CV" src="https://img.shields.io/badge/View_CV-7044A4?style=for-the-badge&logo=readthedocs&logoColor=white" />](https://minahiljaved189-creator.github.io/?view=cv)
+[<img alt="View Resume" src="https://img.shields.io/badge/View_Resume-7044A4?style=for-the-badge&logo=readthedocs&logoColor=white" />](https://minahiljaved189-creator.github.io/?view=resume)
 
 **Open to AI engineering, frontend and full stack development opportunities**
 
@@ -92,7 +92,7 @@ I bring together AI integration and full stack development to create application
 <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" />
 <img alt="Gemini" src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge" />
 <img alt="Groq" src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
-<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img alt="OpenResume" src="https://img.shields.io/badge/OpenResume-5C3EE8?style=for-the-badge&logo=openresume&logoColor=white" />
 <img alt="MediaPipe" src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge" />
 <img alt="YOLOv8" src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge" />
 <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -214,7 +214,7 @@ A collaborative canvas that transforms natural-language requests into synchroniz
 
 ### 👁️ [ApexAI — Exam & Proctoring Platform](https://github.com/minahiljaved189-creator/ApexAI-FYP)
 
-> **Python · Flask · Socket.IO · SQLite · SQL · JavaScript · OpenCV · MediaPipe · Ultralytics · NumPy**
+> **Python · Flask · Socket.IO · SQLite · SQL · JavaScript · OpenResume · MediaPipe · Ultralytics · NumPy**
 
 An exam platform combining quiz management and AI-assisted proctoring.
 
